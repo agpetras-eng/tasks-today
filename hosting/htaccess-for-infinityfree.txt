@@ -1,0 +1,5 @@
+Create a file named exactly  .htaccess  (with the dot) in the htdocs folder,
+next to app, public, vendor, writable ... and put these two lines in it:
+
+RewriteEngine On
+RewriteRule (.*) /public/$1 [L]
