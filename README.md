@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tasks for Today Management System
 
 A small task-management web app built with **CodeIgniter 4**, PHP and MySQL.
@@ -70,3 +71,7 @@ database/         SQL export
 ## Developer
 
 YOUR FULL NAME - YOUR SECTION
+=======
+# tasks-today
+[TECHNICAL] [AI-PROHIBITED] Technical Summative Assessment 1: Module 1 and Module 2
+>>>>>>> d80bb47ebcc3dd97175c9a978905330f3d615960
